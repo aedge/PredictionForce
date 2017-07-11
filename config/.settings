@@ -1,0 +1,17 @@
+{
+    "projectName": "PredictionForce",
+    "username": "andrewedge@predictionforce.com",
+    "id": "09803e90-6617-11e7-b645-77b2a114e743",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "C:\\Users\\edgeaz\\mm_SF_workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
